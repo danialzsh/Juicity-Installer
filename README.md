@@ -2,10 +2,10 @@
 
 # 🚨 هشدار
 
-Always activate "Allow Insecure" on the client when using the provided share link!
+هنگام استفاده از پیوند اشتراک گذاری ارائه شده، همیشه "Allow Insecure" را در مشتری فعال کنید!
 
 
-# 🚀 Quick Start
+# 🚀 نصب سریع
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/Juicity-Installer/main/juicity-installer.sh)
