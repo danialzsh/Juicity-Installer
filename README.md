@@ -14,8 +14,12 @@ bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/Juicity-Installe
 
 # 📋 نصب nekobox
 
-
+```
 https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+```
 
-For detailed instructions and support, refer to the script or open an issue.
-Find me on Twitter @NamelesGhoul
+
+# 📋 نصب پلاگین برای nekobox
+```
+https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3
+```
