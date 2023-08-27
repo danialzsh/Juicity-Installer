@@ -1,6 +1,6 @@
-# Juicity one click Installer 🚀
+# ساخت Juicity با یک کلیک 🚀
 
-# 🚨 Warning
+# 🚨 هشدار
 
 Always activate "Allow Insecure" on the client when using the provided share link!
 
