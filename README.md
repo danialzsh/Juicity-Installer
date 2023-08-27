@@ -2,7 +2,7 @@
 
 # 🚨 هشدار
 
-هنگام استفاده از پیوند اشتراک گذاری ارائه شده، همیشه "Allow Insecure" را در مشتری فعال کنید!
+بعد از نصب تیک "Allow Insecure" را فعال کنید!
 
 
 # 🚀 نصب سریع
@@ -12,7 +12,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/Juicity-Installe
 
 ```
 
-# 📋 نصب nekobox
+# 📋 نصب nekobox برای اندروید
 
 ```
 https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
